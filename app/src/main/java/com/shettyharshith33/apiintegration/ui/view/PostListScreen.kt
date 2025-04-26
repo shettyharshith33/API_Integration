@@ -73,6 +73,7 @@ fun PostCard(post: Post) {
             )
         }
     }
+    Spacer(modifier = Modifier.height(20.dp))
 }
 
 @Composable
