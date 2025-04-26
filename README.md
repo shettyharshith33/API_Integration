@@ -36,6 +36,10 @@ Learned about API integration in Android using **Retrofit** and added a **loadin
 2. Open it in Android Studio
 3. Run the app on an emulator/device
 
+            OR
+
+Download the app from the releases section in this repository.
+
 ---
 
 ## 🔗 API Source
