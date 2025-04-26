@@ -17,7 +17,7 @@ Learned about API integration in Android using **Retrofit** and added a **loadin
 
 | Loading Screen | Data Loaded Screen |
 |:---:|:---:|
-| ![Loading Screen](link-to-your-loading-image) | ![Data Screen](link-to-your-data-loaded-image) |
+| ![Loading Screen]([link-to-your-loading-image](https://github.com/shettyharshith33/API_Integration/blob/main/Shimmer.jpg)) | ![Data Screen](link-to-your-data-loaded-image) |
 
 ---
 
